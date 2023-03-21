@@ -1,0 +1,257 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "uid": "america-do-norte",
+      "name": "América do Norte",
+      "subtitle": "A parte mais setentrional da América",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia).",
+      "image": "/images/north-america.jpg",
+      "countries": 3,
+      "languages": 256,
+      "mostVisitedCities": 9,
+      "cities": [
+        {
+          "name": "New York City",
+          "country": "EUA",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Miami",
+          "country": "EUA",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Los Angeles",
+          "country": "EUA",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Las Vegas",
+          "country": "EUA",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Cancun",
+          "country": "México",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Orlando",
+          "country": "EUA",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Toronto",
+          "country": "Canadá",
+          "image": "/images/north-america.jpg"
+        },
+        {
+          "name": "Vancouver",
+          "country": "Canadá",
+          "image": "/images/north-america.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "uid": "america-do-sul",
+      "name": "América do Sul",
+      "subtitle": "A porção meridional da América",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17.819.100 km², abrangendo 12% da superfície terrestre e 6% da população mundial.",
+      "image": "/images/south-america.jpg",
+      "countries": 12,
+      "languages": 456,
+      "mostVisitedCities": 2,
+      "cities": [
+        {
+          "name": "Buenos Aires City",
+          "country": "Argentina",
+          "image": "/images/south-america.jpg"
+        },
+        {
+          "name": "Lima",
+          "country": "Peru",
+          "image": "/images/south-america.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "uid": "asia",
+      "name": "Ásia",
+      "subtitle": "O maior dos continentes",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+      "image": "/images/asia.jpg",
+      "countries": 50,
+      "languages": 2300,
+      "mostVisitedCities": 38,
+      "cities": [
+        {
+          "name": "Hong Kong",
+          "country": "Hong Kong",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Bangkok",
+          "country": "Tailândia",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Macau",
+          "country": "Macau",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Singapura",
+          "country": "Singapura",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Delhi",
+          "country": "Índia",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Shenzen",
+          "country": "China",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Mumbai",
+          "country": "Índia",
+          "image": "/images/asia.jpg"
+        },
+        {
+          "name": "Phuket",
+          "country": "Tailândia",
+          "image": "/images/asia.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "uid": "africa",
+      "name": "África",
+      "subtitle": "O segundo continente mais populoso da Terra",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta.",
+      "image": "/images/africa.jpg",
+      "countries": 54,
+      "languages": 2000,
+      "mostVisitedCities": 1,
+      "cities": [
+        {
+          "name": "Johannesburg",
+          "country": "África do Sul",
+          "image": "/images/africa.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "uid": "europa",
+      "name": "Europa",
+      "subtitle": "O continente mais antigo",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "image": "/images/europe.jpg",
+      "countries": 50,
+      "languages": 24,
+      "mostVisitedCities": 23,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Praga",
+          "country": "Tchéquia",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Amsterdam",
+          "country": "Países baixos",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Barcelona",
+          "country": "Espanha",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Milão",
+          "country": "Itália",
+          "image": "/images/europe.jpg"
+        },
+        {
+          "name": "Vienna",
+          "country": "Áustria",
+          "image": "/images/europe.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "uid": "oceania",
+      "name": "Oceania",
+      "subtitle": "O menor continente da Terra",
+      "description": "Oceania é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville.",
+      "image": "/images/oceania.jpg",
+      "countries": 16,
+      "languages": 17,
+      "mostVisitedCities": 9,
+      "cities": [
+        {
+          "name": "Istanbul",
+          "country": "Turquia",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Antalya",
+          "country": "Turquia",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Taipei",
+          "country": "Taiwan",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Sydney",
+          "country": "Austrália",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Jerusalém",
+          "country": "Israel",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Melbourne",
+          "country": "Austrália",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "image": "/images/oceania.jpg"
+        },
+        {
+          "name": "Tel Aviv",
+          "country": "Israel",
+          "image": "/images/oceania.jpg"
+        }
+      ]
+    }
+  ]
+}
