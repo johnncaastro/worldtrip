@@ -2,7 +2,7 @@
   worldtrip
 </h1>
 
-![dtmoney](https://github.com/johnncaastro/dtmoney/blob/main/.github/mockup%20dtmoney.png)
+![worldtrip](https://github.com/johnncaastro/worldtrip/blob/main/.github/mockup-worldtrip.png)
 
 ## :page_with_curl: Sobre
 
@@ -36,7 +36,7 @@ Em seguida, dentro da pasta do projeto, insira os comandos abaixo para iniciar a
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/dtmoney/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/johnncaastro/worldtrip/blob/main/LICENSE) para mais detalhes.
 
 ---
 
